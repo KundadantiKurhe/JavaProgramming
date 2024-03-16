@@ -1,2 +1,0 @@
-Welcome to selenium testing
-prepraide core for automation testing.
